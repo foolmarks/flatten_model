@@ -1,5 +1,4 @@
-# flatten_model
-Flatten nested Keras model
+# Flatten nested Keras model
 
 
-Example codeto flatten a Keras nested model - provided by Xiao Sheng
+Example code to flatten a Keras nested model - provided by Xiao Sheng
